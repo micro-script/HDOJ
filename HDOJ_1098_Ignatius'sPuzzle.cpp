@@ -19,7 +19,6 @@ int main(){
 			} 
 		}
 		if (!isfind) cout << "no" << endl; 
-
 	} 
 	return 0;
 }
