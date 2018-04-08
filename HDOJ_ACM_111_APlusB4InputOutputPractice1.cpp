@@ -4,6 +4,7 @@
  * @Description: A+B for Input-Output Practice (I)
  * @Environment: Dev-cpp5.4, (ISO C++98).
  */
+
 #include<iostream>
 int main(){
 	using namespace std;
